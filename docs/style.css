@@ -11,6 +11,14 @@ section {
   font-weight: bold;
 }
 
+section.normal {
+  font-size: 25px;
+  text-align: left;
+  color: #ac5b5a;
+  font-family: "mrs-eaves",sans-serif;
+  font-weight: normal;
+}
+
 .logo {
   margin-bottom: 1.0em;
 }
@@ -33,4 +41,3 @@ a:hover {
   font-size: 0.8em;
   margin-top: 3em;
 }
-
