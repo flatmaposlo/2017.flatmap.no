@@ -83,6 +83,15 @@ a:hover {
   font-family: "Noto serif", serif;
   line-height: 1.7em;
   padding-bottom: 2em; }
+  .content h1 {
+    font-family: "Roboto", "Helvetica";
+    font-weight: 400;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    text-align: center;
+    color: #CAAD9A;
+    text-transform: uppercase;
+    font-size: 2em; }
   .content h2 {
     font-family: "Roboto", "Helvetica";
     font-weight: 400;
