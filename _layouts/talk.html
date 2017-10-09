@@ -6,7 +6,20 @@ layout: default
 
 <div class="talk">
 <h2>{{ talk.title }}</h2>
-<p>{{ talk.type }}</p>
+
+{% if talk.vimeo_id %}
+  <iframe
+      src="https://player.vimeo.com/video/{{talk.vimeo_id}}?color=ff9933"
+      width="640"
+      height="360"
+      frameborder="0"
+      webkitallowfullscreen
+      mozallowfullscreen
+      allowfullscreen
+  ></iframe>
+{% endif %}
+
+<h3>{{ talk.type }} abstract</h3>
 <div class="abstract">{{ talk.abstract }}</div>
 
 {% for speaker in talk.speakers %}
