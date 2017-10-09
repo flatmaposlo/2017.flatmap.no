@@ -20,6 +20,8 @@
     "Contextual: Statically-checked Interpolated Strings for Everyone!"
   type:
     "Presentation"
+  vimeo_id:
+    "216475907"
   abstract:
     '<p>Interpolated strings, like the familiar `s""`, provide a convenient way to embed external DSLs in Scala source, allowing you to construct a new value at runtime from a string literal, with Scala expressions substituted within it.</p>
 
@@ -35,6 +37,8 @@
     "Using Eta for what you don't like writing in Scala"
   type:
     "Presentation"
+  vimeo_id:
+    "216476737"
   abstract:
     '<p>The integration of Scala with a lazy-by-default, modern and statically-typed functional language could lead to some interesting language-heterogeneous implementations despite the fact that the Eta programming language is missing a comprehensive documentation, robust concurrency support and an interactive REPL.</p>
 
@@ -59,6 +63,8 @@
     "clojure.spec: a lisp-flavoured type system"
   type:
     "Presentation"
+  vimeo_id:
+    "216467189"
   abstract:
     "<p>You can do cool and unexpected things if your entire type system is a
     first class citizen and accessible at runtime.</p>
@@ -104,6 +110,8 @@
     Web Applications"
   type:
     "Presentation"
+  vimeo_id:
+    "216464016"
   abstract:
     "<p>Single-page web applications have been spreading like wildfire, with an
     endless amount of frameworks and libraries, and functional programming
@@ -146,6 +154,8 @@
     "Building a Company on Scala"
   type:
     "Presentation"
+  vimeo_id:
+    "217167684"
   abstract:
     "<p>At any company’s start, they will face of the decision of which
     programming language will define their technology stack.</p>
@@ -199,6 +209,8 @@
     "Move fast and automatically refactor things"
   type:
     "Presentation"
+  vimeo_id:
+    "216469977"
   abstract:
     "<p>Move fast and automatically refactor things. That’s my dream at least, and
     I’ve been working hard to make it a reality. Scalafix is a new tool and library
@@ -233,6 +245,8 @@
     "The State Of Elm In 2017: Tales From Production"
   type:
     "Presentation"
+  vimeo_id:
+    "216477391"
   abstract:
     "<p>Elm is a ML-style functional language that compiles to JavaScript. Its purpose is to provide a delightful
     development experience, increasing productivity, improving maintainability and creating fewer bugs.</p>
@@ -274,6 +288,8 @@
     "Functional Web Services with Final Encoding"
   type:
     "Presentation"
+  vimeo_id:
+    "216470124"
   abstract:
     '<p>In this talk, we will join Markus Hauck into the land of functional web services using
     final encodings.  We will see what a final encoding is and how to write embedded DSLs in
@@ -343,6 +359,8 @@
     "Rediscovering Concatenative Languages with Creative Programming"
   type:
     "Presentation"
+  vimeo_id:
+    "216476362"
   abstract:
     "<p>The strange and wonderful family of languages known as Concatenative Programming Languages had
     its golden era with FORTH in the 70s and early 80s, after which they largely faded from the mainstream.
@@ -412,6 +430,8 @@
     "Abstractions in Dotty for fun and profit"
   type:
     "Presentation"
+  vimeo_id:
+    "216477749"
   abstract:
     "<p>Dotty brings many powerful new abstractions to Scala. In this talk I will introduce implicit functions
     and show how they enable extension of GADTs as well as simplicifations to type class usage. I will also
@@ -437,6 +457,8 @@
     "The Essence of Functional Structures"
   type:
     "Presentation"
+  vimeo_id:
+    "216466694"
   abstract:
     "<p>Functional programming (FP) is about compositionality and equational reasoning. Due to these fundamental
     properties, FP is becoming one of the mainstream programming paradigms.</p>
@@ -476,6 +498,8 @@
     "African Polyphony and Polyrhythm"
   type:
     "Presentation"
+  vimeo_id:
+    "216470266"
   abstract:
     "<p>Ethnomusicologists face a dilemma: either shoehorn African music into European notation, or create custom
     DSLs that can only be understood by a select band of European ethnomusicologists. Computational musicologists
@@ -515,6 +539,8 @@
     "Proofessional Lambda Calculus"
   type:
     "Presentation"
+  vimeo_id:
+    "216470499"
   abstract:
     "<p>What do we know about logic and programming? Well not much perhaps, but we do know that logic is
     terribly hard (and proving things is even harder), whereas you can teach yourself C in 24 hours. And
@@ -558,6 +584,8 @@
     "Recursion Schemes and Fixed Point Data Types"
   type:
     "Presentation"
+  vimeo_id:
+    "216476342"
   abstract:
     "<p>Its always challenge to build a good abstraction during work on library. Library codebase must
     be flexible and modular when user code must be clean and easy understandable. One of variants to
@@ -586,6 +614,8 @@
     "Scala Services In Action"
   type:
     "Presentation"
+  vimeo_id:
+    "216476406"
   abstract:
     "<p>Microservices have become one of the main sweet spots for Scala development teams. What
     frameworks are out there to make delivery teams more productive? How do the stacks, stack up?
@@ -632,6 +662,8 @@
     "Servant: Web APIs at the Type Level"
   type:
     "Presentation"
+  vimeo_id:
+    "216467486"
   abstract:
     "<p>Servant is a Haskell library that implements a domain-specific language for web APIs at the type
     level. By specifying the API as types, you get a clean separation of HTTP logic and the value-level
@@ -674,6 +706,8 @@
     "Carpenters and Cartographers"
   type:
     "Presentation"
+  vimeo_id:
+    "216477087"
   abstract:
     "<p>Programming is a very peculiar activity that uses abstract techniques in an attempt to add
     concrete value to the world.</p>
@@ -779,6 +813,8 @@
     "How modern chess programs work"
   type:
     "Presentation"
+  vimeo_id:
+    "216463393"
   abstract:
     "<p>While computer go has received lots of attention recently with the tremendous success of
     AlphaGo, computer chess has generally been regarded as a \"solved\" problem since the Kasparov

@@ -6,6 +6,6 @@ order: 2
 onFrontPage: true
 ---
 
-## Talks
+## Recorded talks
 
 {% include talks.html %}
